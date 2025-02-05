@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... Blender3D, 
 - 💞️ I’m looking to collaborate on ... Blender3D
 - 📫 How to reach me ... N/A
-- 😄 Pronouns: ... 😄😄😄😄😄
-- ⚡ Fun fact: ... 😄😄😄😄😄
+- 😄 Pronouns: ... She/her
+- ⚡ Fun fact: ... Octopuses have three hearts!
 
 <!---
 AshlynLara/AshlynLara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
