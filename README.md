@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @AshlynLara
-- 👀 I’m interested in ... Blender3D, Python & CS50, Drawing
-- 🌱 I’m currently learning ... Blender3D, 
-- 💞️ I’m looking to collaborate on ... Procreate
-- 📫 How to reach me ... N/A
-- 😄 Pronouns: ... Any other than it/its
-- ⚡ Fun fact: ... I'm Bisexual
-
-<!---
-AshlynLara/AshlynLara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Name: Ashlyn or Lara. Please do not refer to me by Ash, I'm uncomfortable with that
+Gender: Female
+Pronouns: I go by anything other than it/it's.
+Sexuality: Bisexual, Demiromantic, Demisexual
+Zodiac: Leo
+MBTI: ENFP
+Personal Facts: I love Roleplaying, but not weird ones, stuff like action, adventure and supernatural. I love playing gacha games and visual novels. I'm an illustrator and a 3d artist. I love a lot of fruits including pineapple. I like to sing and practice voice acting. I REALLY hate super mean ppl in general & ppl who don't respect boundaries on purpose are also one of my dislikes. I'm interested in learning C and Python. I like yaoi.
+Fandoms: SFAWTDE/DAWTDE, HSR, Morimens, Tengoku daimakyo, Corpse factory, of the devil, VADTD, Superfish
